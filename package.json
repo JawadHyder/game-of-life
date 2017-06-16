@@ -13,5 +13,8 @@
     "life"
   ],
   "author": "Jawad Hyder",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
